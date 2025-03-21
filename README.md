@@ -18,7 +18,7 @@
 
 - Vercel
 - Cloudflare
-- Docker
+- Docker.
 
 [演示站点](https://nezha-vercel.vercel.app)
 [说明文档](https://nezhadash-docs.vercel.app)
